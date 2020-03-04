@@ -10,6 +10,12 @@ hr {
   width: 5%;
 }
 
+.begin {
+  text-align: center;
+  margin:auto;
+  width: 75%;
+
+}
 h1 {
   color: #75daad;
   text-align: center;
